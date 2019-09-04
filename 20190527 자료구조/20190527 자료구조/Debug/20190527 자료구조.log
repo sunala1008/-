@@ -1,0 +1,9 @@
+﻿  ArrayList.c
+  ListMain.c
+C:\Users\301-19\source\repos\20190527 자료구조\20190527 자료구조\ListMain.c(21,9): warning C4013:  'system' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\20190527 자료구조\20190527 자료구조\ListMain.c(110,10): warning C4013:  'free' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\20190527 자료구조\20190527 자료구조\ListMain.c(128,8): warning C4013:  'exit' undefined; assuming extern returning int
+  NameCard.c
+  Generating Code...
+C:\Users\301-19\source\repos\20190527 자료구조\20190527 자료구조\ListMain.c(12,6): warning C4101:  'data': unreferenced local variable
+  20190527 자료구조.vcxproj -> C:\Users\301-19\source\repos\20190527 자료구조\Debug\20190527 자료구조.exe

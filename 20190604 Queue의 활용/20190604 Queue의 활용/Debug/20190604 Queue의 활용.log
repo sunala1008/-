@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\301-19\source\repos\20190604 Queue의 활용\20190604 Queue의 활용\Main.c(51,18): warning C4244:  'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  20190604 Queue의 활용.vcxproj -> C:\Users\301-19\source\repos\20190604 Queue의 활용\Debug\20190604 Queue의 활용.exe

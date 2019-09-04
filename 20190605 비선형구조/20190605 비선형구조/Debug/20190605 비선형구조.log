@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\301-19\source\repos\20190605 비선형구조\20190605 비선형구조\Main.c(39,31): warning C4133:  'function': incompatible types - from '_bTreeNode *' to 'BinaryTreeNode *'
+C:\Users\301-19\source\repos\20190605 비선형구조\20190605 비선형구조\Main.c(43,32): warning C4133:  'function': incompatible types - from '_bTreeNode *' to 'BinaryTreeNode *'
+  20190605 비선형구조.vcxproj -> C:\Users\301-19\source\repos\20190605 비선형구조\Debug\20190605 비선형구조.exe

@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\Users\301-19\source\repos\20190530 과제\20190530 과제\Main.c(96,25): warning C4047:  'function': 'LData *' differs in levels of indirection from 'Employee *'
+C:\Users\301-19\source\repos\20190530 과제\20190530 과제\Main.c(96,25): warning C4024:  'Serch_Next': different types for formal and actual parameter 2
+C:\Users\301-19\source\repos\20190530 과제\20190530 과제\Main.c(105,27): warning C4047:  'function': 'LData *' differs in levels of indirection from 'Employee *'
+C:\Users\301-19\source\repos\20190530 과제\20190530 과제\Main.c(105,27): warning C4024:  'Serch_Next': different types for formal and actual parameter 2
+C:\Users\301-19\source\repos\20190530 과제\20190530 과제\Main.c(31,6): warning C4101:  'emp_num': unreferenced local variable
+  20190530 과제.vcxproj -> C:\Users\301-19\source\repos\20190530 과제\Debug\20190530 과제.exe

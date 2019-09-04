@@ -1,0 +1,6 @@
+﻿  LinkedList.c
+C:\Users\301-19\source\repos\20190528\20190528\LinkedList.c(13,29): warning C4013:  'malloc' undefined; assuming extern returning int
+C:\Users\301-19\source\repos\20190528\20190528\LinkedList.c(25,13): warning C4133:  'return': incompatible types - from 'Node *' to 'LinkedList *'
+C:\Users\301-19\source\repos\20190528\20190528\LinkedList.c(31,22): warning C4047:  '=': '_node *' differs in levels of indirection from 'LData'
+C:\Users\301-19\source\repos\20190528\20190528\LinkedList.c(164,6): warning C4013:  'free' undefined; assuming extern returning int
+  20190528.vcxproj -> C:\Users\301-19\source\repos\20190528\Debug\20190528.exe
